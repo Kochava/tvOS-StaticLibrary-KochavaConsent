@@ -4,7 +4,7 @@
 
 <img src="https://storage.googleapis.com/kochava-web/2016/07/Kochava-horizontal-black-800x154.png" width="260" />
 
-## Apple Static-Library KochavaConsent
+## KochavaConsent
 
 The KochavaConsent module is an optional module within the Kochava SDK providing management of user consent.  This includes support for CCPA and GDPR.
 
