@@ -19,6 +19,7 @@
 #import "KVAConsentAuditEntry.h"
 #import "KVAConsentClient.h"
 #import "KVAConsentConfiguration.h"
+#import "KVAConsentDialogNavigationController.h"
 #import "KVAConsentProduct.h"
 #import "KVAUSPrivacy.h"
 #import "KVAUSPrivacyStringValue.h"
